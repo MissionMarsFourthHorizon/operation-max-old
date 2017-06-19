@@ -1,4 +1,16 @@
-# Help Desk Bot Hands-on Lab
+# Welcome to Operaion M.A.X
+
+## Introduction
+
+As most of you know, Mission Mars: Fourth Horizon is currently progressing on the surface of the red planet. It represents the human race’s first steps in colonizing the solar system. A terraforming operation will soon take place, and for the first time, humans will be born on a planet other than Earth.
+
+But, in the meantime, our Martian crew is desperately short-handed. Radio contact with Earth is painfully slow, due to the distances involved, so we must rely on automated assistance wherever possible. You are here to build that capability.
+
+Together, we will be creating the Mars Assisted Experience… or M.A.X. 
+
+M.A.X. will be an artificially intelligent chat bot, offering technical support, mission guidance and emotional monitoring to the crew. To make sure M.A.X. is integrated into the crew quickly, we’re also going to add a bit of personality. They’re a virtual crew member in their own right, after all. 
+
+Once deployed, we anticipate M.A.X. will greatly improve morale on the surface of Mars, as technical issues can be reported quicker, self-service support will be delivered more easily, and crew satisfaction constantly measured. What’s more, since M.A.X. never sleeps, they’ll be the most productive crew member in history!
 
 ## Overview
 
