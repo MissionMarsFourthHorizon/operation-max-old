@@ -31,7 +31,7 @@ you should create a Text Analytics REST API client to consume the **Text Analyti
 
 ## Modify the Bot to Ask for Feedback and Analyze the User's Sentiments
 
-You can create a new Dialog to ask for user experience feedback an call it when the ticket submission creation is complete. Then, call the **Text Analytics Service** using the API Client created and response to user with different message based on the result. If the feedback is positive (score >= 0.5) the bot just thanks the user. Otherwise (score < 0.5), it tells the user that an IT responsible will contact him soon. Note that in the next exercise (7) you will learn how to hand-off the conversation to a human in case of negative feedback so he can assist the user.
+You can create a new Dialog to ask for user experience feedback an call it when the ticket submission creation is complete. Then, call the **Text Analytics Service** using the API Client created and response to user with different message based on the result. If the feedback is positive (score >= 0.5) the bot just thanks the user. Otherwise (score < 0.5), it tells the user that an IT responsible will contact them soon. Note that in the next exercise (7) you will learn how to hand-off the conversation to a human in case of negative feedback so they can assist the user.
 
 ## Further Challenges
 
