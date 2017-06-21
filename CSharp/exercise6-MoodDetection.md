@@ -178,7 +178,7 @@ In this task you will create a new class to call the **Text Analytics API** from
 
     ![exercise6-negativefeedback](./images/exercise6-negativefeedback.png)
 
-    In the next exercise (7) you will learn how to hand-off the conversation to a human so he can assist the user.
+    In the next exercise (7) you will learn how to hand-off the conversation to a human so they can assist the user.
 
 ## Further Challenges
 
