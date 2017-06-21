@@ -1,4 +1,4 @@
-# Welcome to Operaion M.A.X
+# Welcome to Operation M.A.X
 
 ## Introduction
 
